@@ -1,6 +1,7 @@
 // Yanina Miller
 // EVC COMSC075 Spring 2025
 // Week 7 Discussion Array Example
+// https://www.jdoodle.com/ia/1Efw << Play here
 
 import java.util.Random;
 import java.util.Scanner;
